@@ -1,0 +1,7 @@
+{
+  "name": "ABC International University Delhi - Student Result Portal",
+  "description": "Official Student Result Management System for ABC International University Delhi. Examiner Abhinav mark management and secure student result verification portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
